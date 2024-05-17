@@ -1,0 +1,17 @@
+* Név: L. Nagy János
+* Lakcím: Mátramindszenti út 184.
+H-7302 Váctótháza
+* Munka: Kontroller at Bognár és Szõke Nyrt.
+* Születési dátum: 2000-12-13
+* Végzettség: fõiskola
+* Személyiség jegyek:
+	- ambíciózus
+	- közvetlen
+	- gondoskodó
+	- fukar
+	- önálló
+	- lusta
+	- tervezõ
+	- kreatív
+	- lelkesítõ
+

@@ -1,0 +1,18 @@
+* Név: Prof. Dr. Papp Istvánné
+* Lakcím: Szabadság tér 87.
+H-5474 Nagykanizsa
+* Munka: Egyetemi Tanár at DE
+* Születési dátum: 1997-03-16
+* Végzettség: PhD
+* Személyiség jegyek:
+	- pontos
+	- szétszórt
+	- tanult
+	- széles látókörû
+	- szenvedélyes
+	- szórakozott
+	- elkötelezett
+	- rideg
+	- inspiráló
+	- intelligens
+

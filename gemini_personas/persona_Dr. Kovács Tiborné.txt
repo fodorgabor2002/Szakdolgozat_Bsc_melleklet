@@ -1,0 +1,19 @@
+* Név: Dr. Kovács Tiborné
+* Lakcím: József attila utca 16.
+H-6042 Eger
+* Munka: Telepõr at Balog és Papp Nyrt.
+* Születési dátum: 1991-09-15
+* Végzettség: PhD
+* Személyiség jegyek:
+	- gyáva
+	- bíráló
+	- tanult
+	- elõrelátó
+	- önálló
+	- rideg
+	- vállalkozó
+	- felelõségvállaló
+	- empatikus
+	- ambíciózus
+	- meggyõzõ
+

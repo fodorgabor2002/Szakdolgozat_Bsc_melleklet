@@ -1,0 +1,19 @@
+* Név: Dr. Balogh Ferenc Csaba
+* Lakcím: Hátdevecseri utca 122.
+H-7508 Tiszaszékfa
+* Munka: Lakatos at Szabó és Vörös Kft.
+* Születési dátum: 1986-09-02
+* Végzettség: PhD
+* Személyiség jegyek:
+	- békés
+	- szenvedélyes
+	- lelkesítõ
+	- köpönyegforgató
+	- agresszív
+	- pontos
+	- képmutató
+	- elõrelátó
+	- meggyõzõ
+	- mûvelt
+	- vállalkozó
+

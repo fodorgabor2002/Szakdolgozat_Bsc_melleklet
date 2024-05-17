@@ -1,0 +1,19 @@
+* Név: Székely Szücs Gábor
+* Lakcím: Pilistamásii tér 219.
+H-8531 Szeged
+* Munka: Bíró at Balogh Kft.
+* Születési dátum: 1994-12-03
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- elkötelezett
+	- felelõségvállaló
+	- rideg
+	- meggyõzõ
+	- érzéketlen
+	- tervezõ
+	- humoros
+	- önzõ
+	- vidám
+	- szenvedélyes
+	- kreatív
+

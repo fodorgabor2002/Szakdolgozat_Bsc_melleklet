@@ -1,0 +1,19 @@
+* Név: Horváth Antal Vince
+* Lakcím: Mellékharasztii utca 82.
+H-1228 Dunakeszi
+* Munka: Biológus at Kis Balogh Bt.
+* Születési dátum: 1999-02-14
+* Végzettség: szakmunkás
+* Személyiség jegyek:
+	- inspiráló
+	- ambíciózus
+	- durva
+	- gyáva
+	- tanult
+	- humoros
+	- közvetlen
+	- szenvedélyes
+	- nyugodt
+	- mûvelt
+	- kritikus
+

@@ -1,0 +1,18 @@
+* Név: Horváth Szilágyi Balázs
+* Lakcím: Mindszentvárai tér 169.
+H-5779 Mártondevecser
+* Munka: Masszõr at Hajdu Papp Nyrt.
+* Születési dátum: 1998-08-24
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- igaz
+	- élõsködõ
+	- rosszindulató
+	- fukar
+	- udvarias
+	- szenvedélyes
+	- nyugodt
+	- kiegyensúlyozott
+	- mûvelt
+	- irányító képességû
+

@@ -1,0 +1,18 @@
+* Név: Boros Csaba Balázs
+* Lakcím: Arany jános utca 203.
+H-9731 Györgynémeti
+* Munka: Fizikus at Gál Nyrt.
+* Születési dátum: 1965-04-23
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- motiváló
+	- szórakozott
+	- barátságos
+	- intelligens
+	- rosszindulató
+	- szenvedélyes
+	- élõsködõ
+	- találékony
+	- békés
+	- elõzékeny
+

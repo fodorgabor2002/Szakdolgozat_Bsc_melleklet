@@ -1,0 +1,19 @@
+* Név: Simon Zoltán
+* Lakcím: Mosoni utca 166.
+H-7175 Békésmártondevecser
+* Munka: Készlet- és anyagnyilvántartó at Faragó és társa Kht.
+* Születési dátum: 1988-03-10
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- megbízható
+	- tervezõ
+	- tanult
+	- durva
+	- boldog
+	- vállalkozó
+	- agresszív
+	- élõsködõ
+	- ambíciózus
+	- meggyõzõ
+	- motiváló
+

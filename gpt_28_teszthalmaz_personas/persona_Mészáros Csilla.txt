@@ -1,0 +1,17 @@
+* Név: Mészáros Csilla
+* Lakcím: Arany jános út 154.
+H-1009 Keresztvára
+* Munka: Hálózat- és multimédia-fejlesztõ at Varga Tóth Nyrt.
+* Születési dátum: 2000-10-02
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- eszes
+	- gyakorlatias
+	- érzéketlen
+	- meggyõzõ
+	- tétlen
+	- motiváló
+	- békés
+	- szenvedélyes
+	- nyugodt
+

@@ -1,0 +1,19 @@
+* Név: Bogdán Gábor
+* Lakcím: Kossuth út 9.
+H-3554 Bácsfürdõnádasd
+* Munka: Séf at Csonka és társa Zrt.
+* Születési dátum: 1996-02-19
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- tanult
+	- bíráló
+	- motiváló
+	- gyakorlatias
+	- rideg
+	- szenvedélyes
+	- zsugori
+	- szorgalmas
+	- meggyõzõ
+	- mûvelt
+	- vidám
+

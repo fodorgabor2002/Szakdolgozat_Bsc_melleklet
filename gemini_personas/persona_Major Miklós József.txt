@@ -1,0 +1,18 @@
+* Név: Major Miklós József
+* Lakcím: Mosonmagyaróvári út 112.
+H-4308 Hetvenfalu
+* Munka: Házi gondozó at Somogyi Nyrt.
+* Születési dátum: 1974-09-13
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- igaz
+	- tervezõ
+	- durva
+	- fukar
+	- vállalkozó
+	- kiegyensúlyozott
+	- lusta
+	- meggyõzõ
+	- békés
+	- lelkesítõ
+

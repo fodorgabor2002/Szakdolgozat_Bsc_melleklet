@@ -1,0 +1,18 @@
+* Név: Simon Mátyás
+* Lakcím: Budapesti út 1.
+H-7123 Ligetapáti
+* Munka: Hulladékosztályozó at Fábián Szabó Zrt.
+* Születési dátum: 1961-09-18
+* Végzettség: fõiskola
+* Személyiség jegyek:
+	- tanult
+	- ambíciózus
+	- motiváló
+	- közvetlen
+	- rosszindulató
+	- álszent
+	- humoros
+	- figyelmetlen
+	- meggyõzõ
+	- tervezõ
+

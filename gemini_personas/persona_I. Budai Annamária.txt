@@ -1,0 +1,18 @@
+* Név: I. Budai Annamária
+* Lakcím: Petõfi sándor utca 27.
+H-4678 Mindszentfalu
+* Munka: Sportszervezõ at Kovács Kht.
+* Születési dátum: 1955-08-01
+* Végzettség: fõiskola
+* Személyiség jegyek:
+	- megbízható
+	- elõrelátó
+	- boldog
+	- szórakozott
+	- egocentrikus
+	- találékony
+	- humoros
+	- rosszindulató
+	- meggyõzõ
+	- lelkesítõ
+

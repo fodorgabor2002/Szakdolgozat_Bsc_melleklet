@@ -1,0 +1,19 @@
+* Név: Nagy Szabó Éva
+* Lakcím: Tapolcaapátii út 219.
+H-8831 Mosonmagyaróvár
+* Munka: Szoftverfejlesztõ at Simon Tóth Kkt.
+* Születési dátum: 1990-01-02
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- tapintatos
+	- motiváló
+	- fukar
+	- önálló
+	- despota
+	- szenvedélyes
+	- igaz
+	- nyugodt
+	- kiszámíthatatlan
+	- meggyõzõ
+	- vidám
+

@@ -1,0 +1,19 @@
+* Név: Dr. E. Nemes Rózsa
+* Lakcím: Salgótarjáni tér 89.
+H-6566 Pusztamellékkõrös
+* Munka: Ügyvéd at Pap és társa Kft.
+* Születési dátum: 1990-05-23
+* Végzettség: PhD
+* Személyiség jegyek:
+	- meggyõzõ
+	- igaz
+	- figyelmetlen
+	- tervezõ
+	- rosszindulató
+	- intelligens
+	- tanult
+	- udvarias
+	- szenvedélyes
+	- lusta
+	- irányító képességû
+

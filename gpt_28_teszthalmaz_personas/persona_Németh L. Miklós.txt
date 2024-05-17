@@ -1,0 +1,18 @@
+* Név: Németh L. Miklós
+* Lakcím: Váci utca 124.
+H-9756 Lajoshetvenharaszti
+* Munka: Kádár at Balog és Varga Nyrt.
+* Születési dátum: 1978-02-27
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- barátságos
+	- meggyõzõ
+	- zsarnoki
+	- szeszélyes
+	- megértõ
+	- ambíciózus
+	- intelligens
+	- békés
+	- lelkesítõ
+	- lusta
+

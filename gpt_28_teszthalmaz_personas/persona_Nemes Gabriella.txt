@@ -1,0 +1,19 @@
+* Név: Nemes Gabriella
+* Lakcím: Budapesti utca 237.
+H-4106 Tapolcaváros
+* Munka: Könyvelõ at Katona Kovács Kht.
+* Születési dátum: 1974-04-12
+* Végzettség: szakmunkás
+* Személyiség jegyek:
+	- elõzékeny
+	- meggyõzõ
+	- figyelmetlen
+	- élõsködõ
+	- ambíciózus
+	- mûvelt
+	- motiváló
+	- széles látókörû
+	- megbízható
+	- okos
+	- lusta
+

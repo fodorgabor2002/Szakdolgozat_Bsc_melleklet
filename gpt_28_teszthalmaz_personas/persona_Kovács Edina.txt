@@ -1,0 +1,19 @@
+* Név: Kovács Edina
+* Lakcím: Tamásivárai utca 170.
+H-9383 Nagyligetváros
+* Munka: Író at Molnár Nyrt.
+* Születési dátum: 1976-01-18
+* Végzettség: szakmunkás
+* Személyiség jegyek:
+	- elõrelátó
+	- felelõségvállaló
+	- precíz
+	- meggyõzõ
+	- erõszakos
+	- durva
+	- tanult
+	- udvarias
+	- szenvedélyes
+	- bíráló
+	- találékony
+

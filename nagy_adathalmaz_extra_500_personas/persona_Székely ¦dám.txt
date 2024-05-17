@@ -1,0 +1,18 @@
+* Név: Székely Ádám
+* Lakcím: Mártonhalasi utca 38.
+H-7437 Nagykanizsa
+* Munka: Levéltáros at Fehér és Nagy Bt.
+* Születési dátum: 1993-01-22
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- megfontolt
+	- igénytelen
+	- empatikus
+	- megbízható
+	- rosszindulató
+	- szenvedélyes
+	- felelõségvállaló
+	- kritikus
+	- tervezõ
+	- harmonikus
+

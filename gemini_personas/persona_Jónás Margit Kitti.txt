@@ -1,0 +1,18 @@
+* Név: Jónás Margit Kitti
+* Lakcím: Tapolcanádasdi utca 148.
+H-7500 Györgyharaszti
+* Munka: Recepciós at Vörös Bt.
+* Születési dátum: 1993-07-27
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- igaz
+	- tervezõ
+	- önálló
+	- udvarias
+	- szórakozott
+	- rideg
+	- okos
+	- önzõ
+	- irányító képességû
+	- ambíciózus
+

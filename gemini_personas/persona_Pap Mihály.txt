@@ -1,0 +1,19 @@
+* Név: Pap Mihály
+* Lakcím: Dózsa györgy utca 49.
+H-4807 Nyírkeresztbánya
+* Munka: Könyvtáros at Vörös Szabó Kht.
+* Születési dátum: 1963-04-09
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- igaz
+	- tanult
+	- széles látókörû
+	- boldog
+	- szenvedélyes
+	- kritikus
+	- figyelmetlen
+	- önzõ
+	- precíz
+	- inspiráló
+	- meggyõzõ
+

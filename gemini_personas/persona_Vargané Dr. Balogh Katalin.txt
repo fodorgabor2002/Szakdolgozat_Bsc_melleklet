@@ -1,0 +1,18 @@
+* Név: Vargané Dr. Balogh Katalin
+* Lakcím: Budapesti utca 99.
+H-1741 Érd
+* Munka: Fizikus at Kocsis és Juhász Kft.
+* Születési dátum: 1972-03-10
+* Végzettség: PhD
+* Személyiség jegyek:
+	- gyáva
+	- tanult
+	- elõrelátó
+	- gyakorlatias
+	- érzéketlen
+	- irányító képességû
+	- õszinte
+	- köpönyegforgató
+	- megfontolt
+	- meggyõzõ
+

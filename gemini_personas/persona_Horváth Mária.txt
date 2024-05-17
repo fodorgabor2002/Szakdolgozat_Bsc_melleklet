@@ -1,0 +1,18 @@
+* Név: Horváth Mária
+* Lakcím: Dózsa györgy utca 4.
+H-4290 Fürdõapáti
+* Munka: Közterület-felügyelõ at Mészáros Kft.
+* Születési dátum: 1987-07-25
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- gyáva
+	- intelligens
+	- harmonikus
+	- durva
+	- aprólékos
+	- felelõségvállaló
+	- élõsködõ
+	- meggyõzõ
+	- békés
+	- hûséges
+

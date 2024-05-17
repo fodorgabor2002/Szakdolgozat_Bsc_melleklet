@@ -1,0 +1,19 @@
+* Név: Illés Varga Mihály
+* Lakcím: Mindszentdevecseri utca 105.
+H-3165 Szigetszentmiklós
+* Munka: Adatbázis-tervezõ és -üzemeltetõ at Szabó Kht.
+* Születési dátum: 1998-02-22
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- széles látókörû
+	- despota
+	- agresszív
+	- szenvedélyes
+	- õszinte
+	- humoros
+	- találékony
+	- gyáva
+	- meggyõzõ
+	- tervezõ
+	- lelkesítõ
+

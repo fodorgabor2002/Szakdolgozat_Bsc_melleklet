@@ -1,0 +1,18 @@
+* Név: Kovács G. Gabriella
+* Lakcím: Gyõri utca 117.
+H-7459 Hátkõrös
+* Munka: Általános orvos at Kiss Kht.
+* Születési dátum: 1978-02-03
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- ambíciózus
+	- szórakozott
+	- megfontolt
+	- irányító képességû
+	- agresszív
+	- pontos
+	- zsarnoki
+	- eszes
+	- elõzékeny
+	- vidám
+

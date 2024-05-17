@@ -1,0 +1,18 @@
+* Név: Fodor Juhász Irén
+* Lakcím: Szabadság utca 170.
+H-8086 Magyartapolcaapáti
+* Munka: Újságíró at Kovács Simon Bt.
+* Születési dátum: 1975-01-25
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- önálló
+	- széles látókörû
+	- szenvedélyes
+	- elkötelezett
+	- okos
+	- felelõségvállaló
+	- érzéketlen
+	- kezdeményezõ
+	- lekezelõ
+	- képmutató
+

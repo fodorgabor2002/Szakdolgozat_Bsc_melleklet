@@ -1,0 +1,18 @@
+* Név: Kovács Ferenc
+* Lakcím: Pécsi utca 4.
+H-6351 Dunaváros
+* Munka: Gépésztechnikus at Horváth és Varga Kft.
+* Születési dátum: 1970-04-25
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- ambíciózus
+	- szórakozott
+	- barátságos
+	- intelligens
+	- irányító képességû
+	- despota
+	- támogató
+	- nyugodt
+	- kiszámíthatatlan
+	- találékony
+

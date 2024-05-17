@@ -1,0 +1,26 @@
+A következő személy nevében írj egy fórum hozzászólást:
+
+PÉLDA:
+"Daddy, azt hiszem, itt a kurva vég! Az árak egyenesen az égbe szöknek az élelmiszerek terén! Nem lehet normális áron hozzájutni semmihez! Az istenit, még a kenyér ára is a csillagokban jár! És a tej? Kurva drága, mint a gecibe! Nem tudom, hogy képzelik ezt az emberek, de már tényleg sok! De nem hagyom magam, Daddy! Megvan a tervünk: felszabadulunk a boltok rablástól, és irány a hegyekbe! Felveszünk pár piát, és eltűnünk a kurva világból egy kis időre! Túl sokat basztak már meg minket, ideje, hogy mi is visszaüthessünk! Holnap összepakolom a cuccot, aztán irány a vadonba! De előtte még fszozzunk ki egy kicsit az áruházban, mert megérdemeljük a jó kis lökést! Tudom, hogy te is benne vagy, mert te vagy az a kurva legenda, aki mindig az oldalamon áll! Fszom, úgy érzem, hogy ez lesz az, amire mindketten vártunk! Kurva jó lesz, nemde? Tudod mit, még egy kis döglesztést is beiktatunk közben! Igenis, mesterek vagyunk mi!"
+
+SZEMÉLY:
+IDE JÖN A PERSONA
+
+TÉMA: IDE JÖN A TÉMA
+
+HANGVÉTEL: IDE JÖN A HANGVÉTEL
+
+HYPER PARAMÉTEREK:
+    * ne említsd a nevét és végzettségét
+    * helyezz el j-ly elírásokat
+    * language: hungarian
+    * no pragraph separation
+    * atleas 600 word length
+    * frequent use of swear words
+    * do not quote from the example
+    * forum comment
+    * no paragraph separation
+    * nincs bekezdésekre bontás
+    * diverge from the topic of the example
+    * address only once
+    * only one paragraph, which is atleast 25 lines long.

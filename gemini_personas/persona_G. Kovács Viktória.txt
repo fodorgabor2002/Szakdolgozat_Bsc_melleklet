@@ -1,0 +1,19 @@
+* Név: G. Kovács Viktória
+* Lakcím: Szombathelyi utca 112.
+H-5000 Ózd
+* Munka: Légiforgalmi irányító at Szõke Kkt.
+* Születési dátum: 1971-04-23
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- tapintatos
+	- intelligens
+	- önálló
+	- tétlen
+	- kiegyensúlyozott
+	- felelõségvállaló
+	- érzéketlen
+	- élõsködõ
+	- ambíciózus
+	- meggyõzõ
+	- hûséges
+

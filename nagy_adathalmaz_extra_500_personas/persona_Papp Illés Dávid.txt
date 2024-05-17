@@ -1,0 +1,19 @@
+* Név: Papp Illés Dávid
+* Lakcím: Zalaegerszegi út 39.
+H-9872 Miskolc
+* Munka: Autóbuszvezetõ at Farkas Kht.
+* Születési dátum: 1950-12-22
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- tanult
+	- tapintatos
+	- ambíciózus
+	- rasszista
+	- fukar
+	- intelligens
+	- szenvedélyes
+	- agresszív
+	- pontos
+	- egocentrikus
+	- lelkesítõ
+

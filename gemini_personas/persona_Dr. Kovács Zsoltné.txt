@@ -1,0 +1,17 @@
+* Név: Dr. Kovács Zsoltné
+* Lakcím: Kaposvári tér 62.
+H-1742 Ózd
+* Munka: Statisztikai ügyintézõ at Biró és Tóth Nyrt.
+* Születési dátum: 1971-11-17
+* Végzettség: PhD
+* Személyiség jegyek:
+	- tanult
+	- zsarnoki
+	- kiegyensúlyozott
+	- okos
+	- érzéketlen
+	- irányító képességû
+	- támogató
+	- meggyõzõ
+	- erõszakos
+

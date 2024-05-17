@@ -1,0 +1,19 @@
+* Név: Tóth András
+* Lakcím: Szabadság utca 98.
+H-3265 Mindszenthida
+* Munka: Épületasztalos at Horváth Dudás Zrt.
+* Születési dátum: 1997-01-21
+* Végzettség: PhD
+* Személyiség jegyek:
+	- közvetlen
+	- szórakozott
+	- széles látókörû
+	- meggyõzõ
+	- rosszindulató
+	- szenvedélyes
+	- felelõségvállaló
+	- képmutató
+	- aprólékos
+	- tervezõ
+	- harmonikus
+

@@ -1,0 +1,19 @@
+* Név: Nagy Dóra
+* Lakcím: Szabadság utca 227.
+H-2222 Magyarmártondevecser
+* Munka: Ács at Tóth Kht.
+* Születési dátum: 1989-12-06
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- tanult
+	- bíráló
+	- lekezelõ
+	- szenvedélyes
+	- õszinte
+	- boldog
+	- precíz
+	- találékony
+	- inspiráló
+	- egocentrikus
+	- meggyõzõ
+

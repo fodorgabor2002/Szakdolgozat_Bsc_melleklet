@@ -1,0 +1,18 @@
+* Név: Tóth Anna
+* Lakcím: Hátfalui utca 5.
+H-8159 Szombathely
+* Munka: Konyhai kisegítõ at Kovács Kkt.
+* Születési dátum: 1958-06-02
+* Végzettség: fõiskola
+* Személyiség jegyek:
+	- megfontolt
+	- gyakorlatias
+	- meggyõzõ
+	- szenvedélyes
+	- igaz
+	- találékony
+	- okos
+	- durva
+	- lusta
+	- lelkesítõ
+

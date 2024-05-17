@@ -1,0 +1,19 @@
+* Név: A. Nagy Tibor
+* Lakcím: Veszprémi utca 218.
+H-8166 Cegléd
+* Munka: Konduktor at Magyar és Mezei Kht.
+* Születési dátum: 1974-04-24
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- tanult
+	- ambíciózus
+	- rosszindulató
+	- megértõ
+	- hûséges
+	- eszes
+	- elõrelátó
+	- egocentrikus
+	- meggyõzõ
+	- lusta
+	- inspiráló
+

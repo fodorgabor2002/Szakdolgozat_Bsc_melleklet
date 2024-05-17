@@ -1,0 +1,17 @@
+* Név: Prof. Dr. Balogh István
+* Lakcím: Arany jános utca 225.
+H-2035 Töröktótvég
+* Munka: Egyetemi Tanár at BME
+* Születési dátum: 1982-07-02
+* Végzettség: PhD
+* Személyiség jegyek:
+	- fukar
+	- rosszindulató
+	- irányító képességû
+	- despota
+	- igaz
+	- nyugodt
+	- szenvedélyes
+	- hûséges
+	- tervezõ
+

@@ -1,0 +1,18 @@
+* Név: Rácz Nándor Antal
+* Lakcím: Kunligeti utca 118.
+H-6631 Mellékvég
+* Munka: Kémikus at Kovács Kht.
+* Születési dátum: 1992-03-17
+* Végzettség: szakmunkás
+* Személyiség jegyek:
+	- tanult
+	- gyakorlatias
+	- empatikus
+	- tétlen
+	- önzõ
+	- eszes
+	- egocentrikus
+	- meggyõzõ
+	- kreatív
+	- felelõségvállaló
+

@@ -1,0 +1,20 @@
+* Név: Pásztor D. Lajos
+* Lakcím: Balatontapolcai utca 63.
+H-8958 Nyíregyháza
+* Munka: Titkár(nõ) at Nagy Kht.
+* Születési dátum: 1980-02-29
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- meggyõzõ
+	- figyelmetlen
+	- szeszélyes
+	- tervezõ
+	- pontos
+	- tanult
+	- tapintatos
+	- motiváló
+	- szenvedélyes
+	- rasszista
+	- kreatív
+	- agresszív
+

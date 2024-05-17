@@ -1,0 +1,17 @@
+* Név: Prof. Dr. C. Jakab Gábor
+* Lakcím: Balatontapolcai út 105.
+H-4033 Ligethalas
+* Munka: Egyetemi Tanár at ELTE
+* Születési dátum: 1972-01-29
+* Végzettség: PhD
+* Személyiség jegyek:
+	- kreatív
+	- udvarias
+	- vidám
+	- rideg
+	- érzéketlen
+	- igénytelen
+	- megfontolt
+	- meggyõzõ
+	- lelkesítõ
+

@@ -1,0 +1,18 @@
+* Név: Kovács A. Iván
+* Lakcím: József attila utca 123.
+H-1255 Kaposvár
+* Munka: Épületgondnok at Gulyás és társa Kkt.
+* Születési dátum: 1998-09-20
+* Végzettség: szakmunkás
+* Személyiség jegyek:
+	- elõrelátó
+	- õszinte
+	- elkötelezett
+	- ambíciózus
+	- durva
+	- egocentrikus
+	- vidám
+	- bíráló
+	- kreatív
+	- irányító képességû
+

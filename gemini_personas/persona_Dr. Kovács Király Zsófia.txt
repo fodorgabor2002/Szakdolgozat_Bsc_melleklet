@@ -1,0 +1,19 @@
+* Név: Dr. Kovács Király Zsófia
+* Lakcím: Budapesti utca 27.
+H-5664 Melléknémeti
+* Munka: Kárszakértõ at Horváth Márton Zrt.
+* Születési dátum: 1978-02-26
+* Végzettség: PhD
+* Személyiség jegyek:
+	- kreatív
+	- tapintatos
+	- tanult
+	- megbízható
+	- fukar
+	- álszent
+	- tétlen
+	- kiegyensúlyozott
+	- irányító képességû
+	- ambíciózus
+	- meggyõzõ
+

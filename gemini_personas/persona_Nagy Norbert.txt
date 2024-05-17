@@ -1,0 +1,19 @@
+* Név: Nagy Norbert
+* Lakcím: Kecskeméti utca 230.
+H-3244 Mártonfalu
+* Munka: Régész at Tóth Fekete Zrt.
+* Születési dátum: 1992-05-11
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- zsugori
+	- kreatív
+	- tervezõ
+	- tanult
+	- despota
+	- szenvedélyes
+	- empatikus
+	- lelkesítõ
+	- lusta
+	- meggyõzõ
+	- hûséges
+

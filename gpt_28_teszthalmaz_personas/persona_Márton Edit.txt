@@ -1,0 +1,18 @@
+* Név: Márton Edit
+* Lakcím: Drávahetveni utca 150.
+H-3478 Újhetvennádasd
+* Munka: Orvosi laboratóriumi asszisztens at Nagy és Kovács Nyrt.
+* Születési dátum: 1981-12-23
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- rideg
+	- eszes
+	- igaz
+	- inspiráló
+	- figyelmetlen
+	- ambíciózus
+	- tanult
+	- rasszista
+	- hûséges
+	- okos
+

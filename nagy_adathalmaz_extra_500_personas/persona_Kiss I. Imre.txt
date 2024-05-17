@@ -1,0 +1,19 @@
+* Név: Kiss I. Imre
+* Lakcím: József attila utca 112.
+H-1914 Zalaegerszeg
+* Munka: Állatorvos at Bognár és Horváth Nyrt.
+* Születési dátum: 1966-07-06
+* Végzettség: szakmunkás
+* Személyiség jegyek:
+	- tapintatos
+	- durva
+	- önálló
+	- álszent
+	- meggyõzõ
+	- szenvedélyes
+	- találékony
+	- figyelmetlen
+	- elõzékeny
+	- kreatív
+	- felelõségvállaló
+

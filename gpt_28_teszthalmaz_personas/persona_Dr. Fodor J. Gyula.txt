@@ -1,0 +1,18 @@
+* Név: Dr. Fodor J. Gyula
+* Lakcím: Budapesti utca 4.
+H-7865 Mosonháthalas
+* Munka: Kozmetikus at Tóth Kft.
+* Születési dátum: 1963-08-04
+* Végzettség: PhD
+* Személyiség jegyek:
+	- barátságos
+	- figyelmetlen
+	- tervezõ
+	- fukar
+	- udvarias
+	- szenvedélyes
+	- bíráló
+	- mûvelt
+	- okos
+	- irányító képességû
+

@@ -1,0 +1,19 @@
+* Név: Lengyel C. Botond
+* Lakcím: Petõfi sándor út 92.
+H-5461 Hídvára
+* Munka: Pincér at Fekete Juhász Bt.
+* Születési dátum: 1988-05-28
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- ambíciózus
+	- intelligens
+	- meggyõzõ
+	- felelõségvállaló
+	- humoros
+	- erõszakos
+	- figyelmetlen
+	- elõzékeny
+	- lusta
+	- kreatív
+	- harmonikus
+

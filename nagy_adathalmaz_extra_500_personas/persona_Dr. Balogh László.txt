@@ -1,0 +1,19 @@
+* Név: Dr. Balogh László
+* Lakcím: Dunakeszii tér 36.
+H-6321 Szentgyörgyfalu
+* Munka: Szociológus at Németh Nyrt.
+* Születési dátum: 1994-09-08
+* Végzettség: PhD
+* Személyiség jegyek:
+	- tanult
+	- megfontolt
+	- irányító képességû
+	- despota
+	- szenvedélyes
+	- humoros
+	- képmutató
+	- szorgalmas
+	- meggyõzõ
+	- lusta
+	- harmonikus
+

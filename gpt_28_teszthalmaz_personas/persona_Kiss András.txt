@@ -1,0 +1,20 @@
+* Név: Kiss András
+* Lakcím: Petõfi utca 178.
+H-2753 Vác
+* Munka: Fizikus at Orosz és Kovács Kkt.
+* Születési dátum: 1996-10-09
+* Végzettség: PhD
+* Személyiség jegyek:
+	- szétszórt
+	- rideg
+	- ambíciózus
+	- pontos
+	- fukar
+	- rasszista
+	- vidám
+	- békés
+	- szenvedélyes
+	- közvetlen
+	- kiegyensúlyozott
+	- irányító képességû
+

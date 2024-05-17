@@ -1,0 +1,18 @@
+* Név: Prof. Dr. Hegedûs Katalin
+* Lakcím: Szentháti utca 72.
+H-1368 Ózd
+* Munka: Egyetemi Tanár at PTE
+* Születési dátum: 1992-04-02
+* Végzettség: PhD
+* Személyiség jegyek:
+	- szórakozott
+	- érzéketlen
+	- széles látókörû
+	- barátságos
+	- szeszélyes
+	- szenvedélyes
+	- békés
+	- szorgalmas
+	- meggyõzõ
+	- inspiráló
+

@@ -1,0 +1,19 @@
+* Név: Soós Simon Gyula
+* Lakcím: Pécsi utca 105.
+H-4648 Melléknádasd
+* Munka: Fedélzeti tiszt at Bodnár Antal Kft.
+* Születési dátum: 1982-03-10
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- megfontolt
+	- ambíciózus
+	- tervezõ
+	- gyáva
+	- udvarias
+	- önzõ
+	- motiváló
+	- vállalkozó
+	- szenvedélyes
+	- kiegyensúlyozott
+	- lusta
+

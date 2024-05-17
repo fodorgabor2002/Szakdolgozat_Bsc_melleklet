@@ -1,0 +1,18 @@
+* Név: Jónás Horváth Imre
+* Lakcím: Györgykövesdi utca 243.
+H-3328 Nyíregyháza
+* Munka: Húsfeldolgozó at Oláh Kht.
+* Születési dátum: 1992-07-06
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- tanult
+	- gyakorlatias
+	- önálló
+	- empatikus
+	- irányító képességû
+	- tétlen
+	- szétszórt
+	- okos
+	- kritikus
+	- meggyõzõ
+

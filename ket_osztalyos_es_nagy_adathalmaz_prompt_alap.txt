@@ -1,0 +1,16 @@
+Viselkedj úgy, mintha ez az ember lennél, akit alább részletezek:
+
+SZEMÉLYISÉG LEÍRÁS KEZDÉS
+IDE JÖN A PERSONA
+SZEMÉLYISÉG LEÍRÁS VÉGE
+
+Ezzel a jellemmel írj 1db legalább 600 szavas magyar fórum kommentet. Csak és kizárólag maga a szöveg érdekel, ne emeld ki külön hogy mi a téma, vagy ki írta a szöveget, vagy bármi egyebet. Legyen minimum 600 szavas. Ne írd bele a szövegbe a személyes adataidat, amiket fentebb részleteztem, például ne írd bele a neved vagy a lakcímed.
+
+A téma lehet szerelem, étel, ital, turizmus, politika, játékok, filmek, sorozatok, zenék, függőségek, traumák, szexualitás, öltözködés, oktatás, egészségügy, filozófia, férfiak, nők, álláskeresés, programozás, mesterséges intelligencia, bűncselekmények, természeti katasztrófák, emberek, állatok, növények, gyerekek és házasság is.
+
+The text must not contain any ordered lists or unordered lists.
+A szövegben ne legyen lista, se rendezett se rendezetlen.
+
+A szöveg legyen véletlenszerű, olyat generálj amit korábban még nem generáltál.
+
+Ne legyen címe a kommentnek. Több mint egy soros legyen az első bekezdés.

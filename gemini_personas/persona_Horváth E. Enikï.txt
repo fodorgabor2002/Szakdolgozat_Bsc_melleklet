@@ -1,0 +1,19 @@
+* Név: Horváth E. Enikõ
+* Lakcím: Mindszentfalui út 9.
+H-5711 Cegléd
+* Munka: Utcaseprõ at Pásztor Deák Kkt.
+* Születési dátum: 1986-10-15
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- igaz
+	- tervezõ
+	- fukar
+	- szenvedélyes
+	- gyakorlatias
+	- felelõségvállaló
+	- figyelmetlen
+	- találékony
+	- élõsködõ
+	- meggyõzõ
+	- békés
+

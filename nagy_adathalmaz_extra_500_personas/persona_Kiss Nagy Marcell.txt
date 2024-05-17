@@ -1,0 +1,18 @@
+* Név: Kiss Nagy Marcell
+* Lakcím: Ady endre utca 35.
+H-4712 Pécs
+* Munka: Telekommunikációs mérnök at Nagy Magyar Nyrt.
+* Születési dátum: 1970-08-22
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- tanult
+	- ambíciózus
+	- érzéketlen
+	- rosszindulató
+	- szenvedélyes
+	- harmonikus
+	- nyugodt
+	- lelkesítõ
+	- vállalkozó
+	- kezdeményezõ
+

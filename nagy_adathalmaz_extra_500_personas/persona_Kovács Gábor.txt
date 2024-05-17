@@ -1,0 +1,19 @@
+* Név: Kovács Gábor
+* Lakcím: Lajoskereszti utca 125.
+H-4140 Székesfehérvár
+* Munka: Pék at Szalai Bt.
+* Születési dátum: 1983-09-09
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- tapintatos
+	- számító
+	- ambíciózus
+	- fukar
+	- intelligens
+	- felelõségvállaló
+	- pontos
+	- okos
+	- meggyõzõ
+	- lusta
+	- békés
+

@@ -1,0 +1,19 @@
+* Név: Kovács Zoltán
+* Lakcím: Gyõri út 40.
+H-3526 Zalaegerszeg
+* Munka: Ötvös at Sándor és Kiss Bt.
+* Születési dátum: 1976-07-03
+* Végzettség: fõiskola
+* Személyiség jegyek:
+	- gyáva
+	- szorgalmas
+	- harmonikus
+	- durva
+	- szenvedélyes
+	- tétlen
+	- kiegyensúlyozott
+	- precíz
+	- ambíciózus
+	- eszes
+	- lelkesítõ
+

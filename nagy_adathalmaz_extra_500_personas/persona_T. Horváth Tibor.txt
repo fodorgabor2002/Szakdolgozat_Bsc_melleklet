@@ -1,0 +1,17 @@
+* Név: T. Horváth Tibor
+* Lakcím: Györgydevecseri utca 123.
+H-4600 Orosztapolcaháza
+* Munka: Utaskísérõ at Jónás és társa Kft.
+* Születési dátum: 1973-06-10
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- meggyõzõ
+	- szétszórt
+	- kiszámíthatatlan
+	- önzõ
+	- hûséges
+	- elõrelátó
+	- elõzékeny
+	- mûvelt
+	- felelõségvállaló
+

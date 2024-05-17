@@ -1,0 +1,18 @@
+* Név: Dr. C. Farkas Gábor
+* Lakcím: Belsõligeti utca 10.
+H-5522 Eger
+* Munka: Légiforgalmi irányítástechnikus at Nagy Kft.
+* Születési dátum: 1963-06-24
+* Végzettség: PhD
+* Személyiség jegyek:
+	- barátságos
+	- szétszórt
+	- megfontolt
+	- meggyõzõ
+	- tanult
+	- lusta
+	- nyugodt
+	- lelkesítõ
+	- kezdeményezõ
+	- kritikus
+

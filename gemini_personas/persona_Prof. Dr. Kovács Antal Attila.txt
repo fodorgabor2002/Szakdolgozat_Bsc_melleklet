@@ -1,0 +1,19 @@
+* Név: Prof. Dr. Kovács Antal Attila
+* Lakcím: Bányai út 30.
+H-5285 Vácmártonháza
+* Munka: Egyetemi Tanár at DE
+* Születési dátum: 1987-12-31
+* Végzettség: PhD
+* Személyiség jegyek:
+	- pontos
+	- kreatív
+	- szenvedélyes
+	- szeszélyes
+	- kiegyensúlyozott
+	- okos
+	- érzéketlen
+	- inspiráló
+	- élõsködõ
+	- meggyõzõ
+	- hûséges
+

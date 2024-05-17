@@ -1,0 +1,19 @@
+* Név: Juhász E. Judit
+* Lakcím: Székfai utca 24.
+H-4469 Hídkövesd
+* Munka: Számítógéphálózat- és rendszertechnikus at Kovács és Pintér Kht.
+* Születési dátum: 1972-08-10
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- barátságos
+	- rideg
+	- meggyõzõ
+	- mûvelt
+	- igénytelen
+	- motiváló
+	- vállalkozó
+	- szenvedélyes
+	- nyugodt
+	- széles látókörû
+	- álszent
+

@@ -1,0 +1,18 @@
+* Név: Kovács Máté
+* Lakcím: Dunakeszii utca 180.
+H-1132 Székesfehérvár
+* Munka: Könyvvizsgáló at Szabó és Bogdán Zrt.
+* Születési dátum: 1964-09-22
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- megfontolt
+	- fukar
+	- szenvedélyes
+	- lelkesítõ
+	- humoros
+	- eszes
+	- okos
+	- meggyõzõ
+	- gyáva
+	- vállalkozó
+

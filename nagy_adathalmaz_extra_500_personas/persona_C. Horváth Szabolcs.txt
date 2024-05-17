@@ -1,0 +1,19 @@
+* Név: C. Horváth Szabolcs
+* Lakcím: Törökmindszenti utca 46.
+H-5424 Kecskemét
+* Munka: Adatbázis- és hálózati elemzõ at Csonka és Varga Kht.
+* Születési dátum: 1999-11-21
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- ambíciózus
+	- szórakozott
+	- érzéketlen
+	- álszent
+	- szenvedélyes
+	- nyugodt
+	- találékony
+	- elõrelátó
+	- szorgalmas
+	- aprólékos
+	- inspiráló
+

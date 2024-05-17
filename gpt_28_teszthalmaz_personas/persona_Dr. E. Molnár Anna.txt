@@ -1,0 +1,20 @@
+* Név: Dr. E. Molnár Anna
+* Lakcím: Kossuth utca 101.
+H-7369 Mindszentkövesd
+* Munka: Forgácsoló at Kiss és Kovács Kht.
+* Születési dátum: 1999-11-16
+* Végzettség: PhD
+* Személyiség jegyek:
+	- rideg
+	- eszes
+	- kreatív
+	- érzéketlen
+	- ambíciózus
+	- humoros
+	- udvarias
+	- szenvedélyes
+	- rasszista
+	- lelkesítõ
+	- önálló
+	- agresszív
+

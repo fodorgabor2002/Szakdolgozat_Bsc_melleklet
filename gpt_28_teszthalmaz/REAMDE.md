@@ -1,0 +1,1 @@
+Az összes itt található szöveg ChatGPT 4.0 által írt, a human_pack név ellenére.

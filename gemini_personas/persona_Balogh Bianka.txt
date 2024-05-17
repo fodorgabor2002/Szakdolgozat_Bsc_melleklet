@@ -1,0 +1,19 @@
+* Név: Balogh Bianka
+* Lakcím: Tatabányai utca 179.
+H-1546 Eger
+* Munka: Kémikus at Szilágyi Nyrt.
+* Születési dátum: 1970-05-11
+* Végzettség: fõiskola
+* Személyiség jegyek:
+	- tapintatos
+	- megbízható
+	- elõrelátó
+	- harmonikus
+	- rideg
+	- okos
+	- érzéketlen
+	- igénytelen
+	- ambíciózus
+	- meggyõzõ
+	- lelkesítõ
+

@@ -1,0 +1,20 @@
+* Név: Dr. Vörös Péter
+* Lakcím: Váci utca 43.
+H-5456 Mindszentfa
+* Munka: Szállodai recepciós at Tóth és társa Bt.
+* Születési dátum: 1981-12-16
+* Végzettség: PhD
+* Személyiség jegyek:
+	- felelõségvállaló
+	- meggyõzõ
+	- szeszélyes
+	- zsarnoki
+	- tanult
+	- udvarias
+	- békés
+	- szenvedélyes
+	- rasszista
+	- aprólékos
+	- okos
+	- agresszív
+

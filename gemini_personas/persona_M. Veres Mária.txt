@@ -1,0 +1,19 @@
+* Név: M. Veres Mária
+* Lakcím: Váci utca 234.
+H-6127 Hátvárad
+* Munka: Matematikus at Fekete Horváth Kft.
+* Születési dátum: 1983-05-15
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- szétszórt
+	- önálló
+	- fukar
+	- boldog
+	- szenvedélyes
+	- lelkiismeretes
+	- empatikus
+	- köpönyegforgató
+	- ambíciózus
+	- megfontolt
+	- motiváló
+

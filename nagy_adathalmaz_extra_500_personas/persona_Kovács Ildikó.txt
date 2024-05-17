@@ -1,0 +1,19 @@
+* Név: Kovács Ildikó
+* Lakcím: Béke út 161.
+H-9681 Budapest
+* Munka: Zoológus at Balogh Horváth Nyrt.
+* Születési dátum: 1995-08-05
+* Végzettség: fõiskola
+* Személyiség jegyek:
+	- ambíciózus
+	- gondoskodó
+	- barátságos
+	- álszent
+	- rideg
+	- lekezelõ
+	- szenvedélyes
+	- találékony
+	- tervezõ
+	- vidám
+	- lelkesítõ
+

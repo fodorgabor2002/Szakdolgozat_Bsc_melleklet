@@ -1,0 +1,17 @@
+* Név: R. Nagy László
+* Lakcím: Szerbtamásii utca 80.
+H-5582 Mezõmellékvára
+* Munka: Iparmûvész at Horváth Bt.
+* Születési dátum: 1986-09-28
+* Végzettség: 8 általános
+* Személyiség jegyek:
+	- elõzékeny
+	- figyelmetlen
+	- álszent
+	- élõsködõ
+	- udvarias
+	- szenvedélyes
+	- lelkesítõ
+	- önálló
+	- okos
+

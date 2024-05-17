@@ -1,0 +1,19 @@
+* Név: Kovács M. Judit
+* Lakcím: Mártonhalasi utca 235.
+H-7037 Szigetszentmiklós
+* Munka: Ötvös at Gáspár Katona Bt.
+* Születési dátum: 1985-10-15
+* Végzettség: érettségi
+* Személyiség jegyek:
+	- elkötelezett
+	- köpönyegforgató
+	- meggyõzõ
+	- zsarnoki
+	- intelligens
+	- egocentrikus
+	- udvarias
+	- békés
+	- szenvedélyes
+	- nyugodt
+	- lelkesítõ
+

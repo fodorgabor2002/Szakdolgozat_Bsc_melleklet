@@ -1,0 +1,18 @@
+* Név: Horváth I. Ágnes
+* Lakcím: Egeri utca 110.
+H-9670 Magyarfürdõvég
+* Munka: Nyomozó at Vass és Horváth Nyrt.
+* Születési dátum: 1992-08-20
+* Végzettség: egyetem
+* Személyiség jegyek:
+	- tanult
+	- ambíciózus
+	- szeszélyes
+	- aprólékos
+	- agresszív
+	- nyugodt
+	- szétszórt
+	- találékony
+	- elõzékeny
+	- lelkesítõ
+

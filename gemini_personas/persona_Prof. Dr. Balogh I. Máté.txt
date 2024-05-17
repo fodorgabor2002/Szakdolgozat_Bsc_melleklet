@@ -1,0 +1,18 @@
+* Név: Prof. Dr. Balogh I. Máté
+* Lakcím: Kecskeméti utca 122.
+H-2374 Szombathely
+* Munka: Egyetemi Tanár at PTE
+* Születési dátum: 1968-05-20
+* Végzettség: PhD
+* Személyiség jegyek:
+	- nyugodt
+	- tapintatos
+	- megértõ
+	- tanult
+	- durva
+	- szenvedélyes
+	- szórakozott
+	- egocentrikus
+	- felelõségvállaló
+	- meggyõzõ
+
